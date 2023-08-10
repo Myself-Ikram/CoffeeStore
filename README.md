@@ -6,7 +6,7 @@ Explore the world of coffee with our React Native app! Featuring elegant nested 
 - Nested Navigation
 
 ## Screenshots
-<img width="197" gap="20" alt="image" src="https://github.com/Myself-Ikram/CoffeeStore/assets/97652328/f8486eff-da49-437a-bce6-6277e48e740f">
+<img width="197" alt="image" src="https://github.com/Myself-Ikram/CoffeeStore/assets/97652328/f8486eff-da49-437a-bce6-6277e48e740f">
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/CoffeeStore/assets/97652328/41f3ccb5-3aa8-4650-98c7-6c05648c6e91">
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/CoffeeStore/assets/97652328/a15902c4-1f26-4a8c-a465-09ee0eacd09e">
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/CoffeeStore/assets/97652328/6efd3aea-1ce0-4fb1-bdc9-a3c85a971ac7">

@@ -16,6 +16,10 @@ Explore the world of coffee with our React Native app! Featuring elegant nested 
 will upload soon!
 
 
+https://github.com/Myself-Ikram/CoffeeStore/assets/97652328/694f2b6b-2d7e-4532-b6ff-be5e4738cb91
+
+
+
 ## How to Run
 1. Clone the repository.
 2. Install dependencies using `npm install` or `yarn install`.

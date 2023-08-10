@@ -11,7 +11,6 @@ Explore the world of coffee with our React Native app! Featuring elegant nested 
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/CoffeeStore/assets/97652328/a15902c4-1f26-4a8c-a465-09ee0eacd09e">
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/CoffeeStore/assets/97652328/6efd3aea-1ce0-4fb1-bdc9-a3c85a971ac7">
 <img width="197" alt="image" src="https://github.com/Myself-Ikram/CoffeeStore/assets/97652328/71f05681-a148-428d-800e-e0321b2dade9">
-<img width="197" alt="image" src="https://github.com/Myself-Ikram/CoffeeStore/assets/97652328/67636fd7-51ec-4238-b78e-f8c4c49f0950">
 
 ## Video
 will upload soon!
